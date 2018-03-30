@@ -1,0 +1,1000 @@
+Beginning Data Retrieval
+----------------------------
+Processing City 1 | carnarvon
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=carnarvon
+Processing City 2 | vaini
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaini
+Processing City 3 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 4 | fairbanks
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fairbanks
+Processing City 5 | vaitupu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaitupu
+Processing City 6 | wulanhaote
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wulanhaote
+Processing City 7 | alofi
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alofi
+Processing City 8 | arroio grande
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arroio+grande
+Processing City 9 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 10 | mehamn
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mehamn
+Processing City 11 | saskylakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saskylakh
+Processing City 12 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 13 | puerto ayora
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
+Processing City 14 | coihaique
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=coihaique
+Processing City 15 | tura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tura
+Processing City 16 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 17 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 18 | alta
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alta
+Processing City 19 | zhigansk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=zhigansk
+Processing City 20 | cefalu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cefalu
+Processing City 21 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 22 | akureyri
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=akureyri
+Processing City 23 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 24 | san patricio
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+patricio
+Processing City 25 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 26 | mahebourg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mahebourg
+Processing City 27 | lubao
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lubao
+Processing City 28 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 29 | bambous virieux
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bambous+virieux
+Processing City 30 | halifax
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=halifax
+Processing City 31 | fukue
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fukue
+Processing City 32 | katsuura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=katsuura
+Processing City 33 | concepcion
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=concepcion
+Processing City 34 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 35 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 36 | port hardy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+hardy
+Processing City 37 | kyzyl-suu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kyzyl-suu
+Processing City 38 | mount gambier
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mount+gambier
+Processing City 39 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 40 | sao joao da barra
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+joao+da+barra
+Processing City 41 | kushima
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kushima
+Processing City 42 | gberia fotombu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gberia+fotombu
+Processing City 43 | ostrovnoy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ostrovnoy
+Processing City 44 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 45 | laguna
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=laguna
+Processing City 46 | tiksi
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tiksi
+Processing City 47 | acarau
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=acarau
+Processing City 48 | cockburn town
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cockburn+town
+Processing City 49 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 50 | ust-tsilma
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ust-tsilma
+Processing City 51 | campbellton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=campbellton
+Processing City 52 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 53 | padang
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=padang
+Processing City 54 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 55 | sembe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sembe
+Processing City 56 | puerto ayora
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
+Processing City 57 | castro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=castro
+Processing City 58 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 59 | bam
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bam
+Processing City 60 | avarua
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=avarua
+Processing City 61 | mount gambier
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mount+gambier
+Processing City 62 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 63 | arraial do cabo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arraial+do+cabo
+Processing City 64 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 65 | ayagoz
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ayagoz
+Processing City 66 | hasaki
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hasaki
+Processing City 67 | kadambur
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kadambur
+Processing City 68 | jiayuguan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jiayuguan
+Processing City 69 | hithadhoo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hithadhoo
+Processing City 70 | puerto ayora
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
+Processing City 71 | conakry
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=conakry
+Processing City 72 | taree
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taree
+Processing City 73 | sao joao da barra
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+joao+da+barra
+Processing City 74 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 75 | pisco
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pisco
+Processing City 76 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 77 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 78 | roma
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=roma
+Processing City 79 | chuy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chuy
+Processing City 80 | nikolskoye
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nikolskoye
+Processing City 81 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 82 | esperance
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=esperance
+Processing City 83 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 84 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 85 | hami
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hami
+Processing City 86 | kavaratti
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kavaratti
+Processing City 87 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 88 | beya
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=beya
+Processing City 89 | krasnovka
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=krasnovka
+Processing City 90 | sao gabriel da cachoeira
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+gabriel+da+cachoeira
+Processing City 91 | dalvik
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dalvik
+Processing City 92 | longyearbyen
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=longyearbyen
+Processing City 93 | butaritari
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=butaritari
+Processing City 94 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 95 | dolores
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dolores
+Processing City 96 | talnakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=talnakh
+Processing City 97 | hermanus
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hermanus
+Processing City 98 | cape town
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cape+town
+Processing City 99 | fonte boa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fonte+boa
+Processing City 100 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 101 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 102 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 103 | vaitupu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaitupu
+Processing City 104 | lolua
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lolua
+Processing City 105 | vardo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vardo
+Processing City 106 | talcahuano
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=talcahuano
+Processing City 107 | bengkulu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bengkulu
+Processing City 108 | avarua
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=avarua
+Processing City 109 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 110 | laguna
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=laguna
+Processing City 111 | viedma
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=viedma
+Processing City 112 | alice springs
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alice+springs
+Processing City 113 | cochrane
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cochrane
+Processing City 114 | souillac
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=souillac
+Processing City 115 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 116 | port elizabeth
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+elizabeth
+Processing City 117 | hithadhoo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hithadhoo
+Processing City 118 | ribeira grande
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ribeira+grande
+Processing City 119 | san juan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+juan
+Processing City 120 | san carlos de bariloche
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+carlos+de+bariloche
+Processing City 121 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 122 | sao domingos
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+domingos
+Processing City 123 | saleaula
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saleaula
+Processing City 124 | arraial do cabo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arraial+do+cabo
+Processing City 125 | hermanus
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hermanus
+Processing City 126 | ponta do sol
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ponta+do+sol
+Processing City 127 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 128 | bucerias
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bucerias
+Processing City 129 | mizan teferi
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mizan+teferi
+Processing City 130 | barentsburg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barentsburg
+Processing City 131 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 132 | krasnoselkup
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=krasnoselkup
+Processing City 133 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 134 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 135 | tawkar
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tawkar
+Processing City 136 | san quintin
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+quintin
+Processing City 137 | tuktoyaktuk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tuktoyaktuk
+Processing City 138 | sao filipe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+filipe
+Processing City 139 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 140 | upernavik
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=upernavik
+Processing City 141 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 142 | bredasdorp
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bredasdorp
+Processing City 143 | barrow
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barrow
+Processing City 144 | bredasdorp
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bredasdorp
+Processing City 145 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 146 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 147 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 148 | chokurdakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chokurdakh
+Processing City 149 | butajira
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=butajira
+Processing City 150 | barrow
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barrow
+Processing City 151 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 152 | vigrestad
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vigrestad
+Processing City 153 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 154 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 155 | aswan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=aswan
+Processing City 156 | ostrovnoy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ostrovnoy
+Processing City 157 | sayyan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sayyan
+Processing City 158 | asau
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=asau
+Processing City 159 | butaritari
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=butaritari
+Processing City 160 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 161 | castro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=castro
+Processing City 162 | luderitz
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=luderitz
+Processing City 163 | lorengau
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lorengau
+Processing City 164 | yellowknife
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yellowknife
+Processing City 165 | vaini
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaini
+Processing City 166 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 167 | saleaula
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saleaula
+Processing City 168 | sorvag
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sorvag
+Processing City 169 | iqaluit
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=iqaluit
+Processing City 170 | taolanaro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taolanaro
+Processing City 171 | barrow
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barrow
+Processing City 172 | ribas do rio pardo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ribas+do+rio+pardo
+Processing City 173 | mar del plata
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mar+del+plata
+Processing City 174 | belushya guba
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=belushya+guba
+Processing City 175 | bambous virieux
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bambous+virieux
+Processing City 176 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 177 | utica
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=utica
+Processing City 178 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 179 | longyearbyen
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=longyearbyen
+Processing City 180 | cidreira
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cidreira
+Processing City 181 | ijaki
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ijaki
+Processing City 182 | ambodifototra
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ambodifototra
+Processing City 183 | vaini
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaini
+Processing City 184 | cape town
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cape+town
+Processing City 185 | kyaikto
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kyaikto
+Processing City 186 | sola
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sola
+Processing City 187 | tiksi
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tiksi
+Processing City 188 | barrow
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barrow
+Processing City 189 | hithadhoo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hithadhoo
+Processing City 190 | dubbo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dubbo
+Processing City 191 | asyut
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=asyut
+Processing City 192 | tari
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tari
+Processing City 193 | talnakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=talnakh
+Processing City 194 | elizabeth city
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=elizabeth+city
+Processing City 195 | lavrentiya
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lavrentiya
+Processing City 196 | mocajuba
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mocajuba
+Processing City 197 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 198 | iracoubo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=iracoubo
+Processing City 199 | hithadhoo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hithadhoo
+Processing City 200 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 201 | illoqqortoormiut
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=illoqqortoormiut
+Processing City 202 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 203 | lazaro cardenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lazaro+cardenas
+Processing City 204 | arraial do cabo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arraial+do+cabo
+Processing City 205 | castro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=castro
+Processing City 206 | sentyabrskiy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sentyabrskiy
+Processing City 207 | vao
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vao
+Processing City 208 | lasa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lasa
+Processing City 209 | skalistyy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=skalistyy
+Processing City 210 | fortuna
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fortuna
+Processing City 211 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 212 | saint-philippe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-philippe
+Processing City 213 | hasaki
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hasaki
+Processing City 214 | tateyama
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tateyama
+Processing City 215 | new norfolk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=new+norfolk
+Processing City 216 | mandsaur
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mandsaur
+Processing City 217 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 218 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 219 | ondorhaan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ondorhaan
+Processing City 220 | itupiranga
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=itupiranga
+Processing City 221 | hermanus
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hermanus
+Processing City 222 | salym
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=salym
+Processing City 223 | kodiak
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kodiak
+Processing City 224 | pemangkat
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pemangkat
+Processing City 225 | east london
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=east+london
+Processing City 226 | taolanaro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taolanaro
+Processing City 227 | kaeo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kaeo
+Processing City 228 | port-gentil
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port-gentil
+Processing City 229 | yuzhno-yeniseyskiy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yuzhno-yeniseyskiy
+Processing City 230 | carnarvon
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=carnarvon
+Processing City 231 | san matias
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+matias
+Processing City 232 | puerto ayora
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
+Processing City 233 | pevek
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pevek
+Processing City 234 | belushya guba
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=belushya+guba
+Processing City 235 | safwah
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=safwah
+Processing City 236 | palana
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=palana
+Processing City 237 | bluff
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bluff
+Processing City 238 | grand river south east
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=grand+river+south+east
+Processing City 239 | torbay
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=torbay
+Processing City 240 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 241 | cape town
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cape+town
+Processing City 242 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 243 | paris
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=paris
+Processing City 244 | tuktoyaktuk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tuktoyaktuk
+Processing City 245 | sorland
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sorland
+Processing City 246 | port elizabeth
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+elizabeth
+Processing City 247 | lebu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lebu
+Processing City 248 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 249 | isangel
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=isangel
+Processing City 250 | kerouane
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kerouane
+Processing City 251 | moranbah
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=moranbah
+Processing City 252 | pangnirtung
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pangnirtung
+Processing City 253 | anloga
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=anloga
+Processing City 254 | taltal
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taltal
+Processing City 255 | yellowknife
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yellowknife
+Processing City 256 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 257 | victoria
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=victoria
+Processing City 258 | butaritari
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=butaritari
+Processing City 259 | okato
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=okato
+Processing City 260 | soto la marina
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=soto+la+marina
+Processing City 261 | new norfolk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=new+norfolk
+Processing City 262 | pangnirtung
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pangnirtung
+Processing City 263 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 264 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 265 | bambanglipuro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bambanglipuro
+Processing City 266 | kutahya
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kutahya
+Processing City 267 | wanxian
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wanxian
+Processing City 268 | carnarvon
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=carnarvon
+Processing City 269 | puerto ayora
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
+Processing City 270 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 271 | belmonte
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=belmonte
+Processing City 272 | buckeye
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=buckeye
+Processing City 273 | kanniyakumari
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kanniyakumari
+Processing City 274 | victoria
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=victoria
+Processing City 275 | qaqortoq
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qaqortoq
+Processing City 276 | arraial do cabo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arraial+do+cabo
+Processing City 277 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 278 | linhares
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=linhares
+Processing City 279 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 280 | necochea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=necochea
+Processing City 281 | port alfred
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+alfred
+Processing City 282 | port lincoln
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+lincoln
+Processing City 283 | wilmington
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wilmington
+Processing City 284 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 285 | khatanga
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=khatanga
+Processing City 286 | port elizabeth
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+elizabeth
+Processing City 287 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 288 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 289 | hibbing
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hibbing
+Processing City 290 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 291 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 292 | jamestown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
+Processing City 293 | san miguel
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+miguel
+Processing City 294 | san patricio
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+patricio
+Processing City 295 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 296 | wolgast
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wolgast
+Processing City 297 | norsup
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=norsup
+Processing City 298 | pokhara
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pokhara
+Processing City 299 | maumere
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=maumere
+Processing City 300 | taolanaro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taolanaro
+Processing City 301 | new norfolk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=new+norfolk
+Processing City 302 | cherskiy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cherskiy
+Processing City 303 | port pirie
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+pirie
+Processing City 304 | georgetown
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=georgetown
+Processing City 305 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 306 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 307 | quang ngai
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=quang+ngai
+Processing City 308 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 309 | katsuura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=katsuura
+Processing City 310 | saint-philippe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-philippe
+Processing City 311 | yulara
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yulara
+Processing City 312 | severo-kurilsk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=severo-kurilsk
+Processing City 313 | henties bay
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=henties+bay
+Processing City 314 | los banos
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=los+banos
+Processing City 315 | hailar
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hailar
+Processing City 316 | bluff
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bluff
+Processing City 317 | saleaula
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saleaula
+Processing City 318 | narsaq
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=narsaq
+Processing City 319 | barrow
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barrow
+Processing City 320 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 321 | harper
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=harper
+Processing City 322 | port-gentil
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port-gentil
+Processing City 323 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 324 | cidreira
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cidreira
+Processing City 325 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 326 | attawapiskat
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=attawapiskat
+Processing City 327 | avarua
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=avarua
+Processing City 328 | kirovskiy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kirovskiy
+Processing City 329 | hermanus
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hermanus
+Processing City 330 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 331 | the valley
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=the+valley
+Processing City 332 | pahrump
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pahrump
+Processing City 333 | barentsburg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barentsburg
+Processing City 334 | kapaa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
+Processing City 335 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 336 | souillac
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=souillac
+Processing City 337 | carnarvon
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=carnarvon
+Processing City 338 | aklavik
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=aklavik
+Processing City 339 | east london
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=east+london
+Processing City 340 | tuktoyaktuk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tuktoyaktuk
+Processing City 341 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 342 | ilulissat
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ilulissat
+Processing City 343 | yellowknife
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yellowknife
+Processing City 344 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 345 | saleaula
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saleaula
+Processing City 346 | sabzevar
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sabzevar
+Processing City 347 | port alfred
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+alfred
+Processing City 348 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 349 | bilaspur
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bilaspur
+Processing City 350 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 351 | katsuura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=katsuura
+Processing City 352 | puerto ayora
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
+Processing City 353 | port elizabeth
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+elizabeth
+Processing City 354 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 355 | jinchang
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jinchang
+Processing City 356 | narsaq
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=narsaq
+Processing City 357 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 358 | saskylakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saskylakh
+Processing City 359 | victoria
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=victoria
+Processing City 360 | port alfred
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+alfred
+Processing City 361 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 362 | dikson
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dikson
+Processing City 363 | meyungs
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=meyungs
+Processing City 364 | lebu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lebu
+Processing City 365 | hasaki
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hasaki
+Processing City 366 | ponta delgada
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ponta+delgada
+Processing City 367 | barentsburg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barentsburg
+Processing City 368 | manoel urbano
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=manoel+urbano
+Processing City 369 | ruatoria
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ruatoria
+Processing City 370 | tuktoyaktuk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tuktoyaktuk
+Processing City 371 | lagoa
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lagoa
+Processing City 372 | saint-philippe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-philippe
+Processing City 373 | salalah
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=salalah
+Processing City 374 | makakilo city
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=makakilo+city
+Processing City 375 | coquimbo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=coquimbo
+Processing City 376 | panalingaan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=panalingaan
+Processing City 377 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 378 | karratha
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=karratha
+Processing City 379 | saint-paul
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-paul
+Processing City 380 | khatanga
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=khatanga
+Processing City 381 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 382 | saint anthony
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint+anthony
+Processing City 383 | lillooet
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lillooet
+Processing City 384 | nome
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nome
+Processing City 385 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 386 | bluff
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bluff
+Processing City 387 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 388 | buraydah
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=buraydah
+Processing City 389 | vaini
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaini
+Processing City 390 | port elizabeth
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+elizabeth
+Processing City 391 | atuona
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
+Processing City 392 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 393 | taolanaro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taolanaro
+Processing City 394 | nikolskoye
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nikolskoye
+Processing City 395 | semey
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=semey
+Processing City 396 | leshukonskoye
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=leshukonskoye
+Processing City 397 | hanzhong
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hanzhong
+Processing City 398 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 399 | nome
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nome
+Processing City 400 | new norfolk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=new+norfolk
+Processing City 401 | mahebourg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mahebourg
+Processing City 402 | hithadhoo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hithadhoo
+Processing City 403 | jagtial
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jagtial
+Processing City 404 | ambilobe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ambilobe
+Processing City 405 | ialibu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ialibu
+Processing City 406 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 407 | thompson
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=thompson
+Processing City 408 | solnechnyy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=solnechnyy
+Processing City 409 | proti
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=proti
+Processing City 410 | avinurme
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=avinurme
+Processing City 411 | itarema
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=itarema
+Processing City 412 | qaanaaq
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qaanaaq
+Processing City 413 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 414 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 415 | souillac
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=souillac
+Processing City 416 | peniche
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=peniche
+Processing City 417 | chuy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chuy
+Processing City 418 | mackenzie
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mackenzie
+Processing City 419 | ushuaia
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
+Processing City 420 | taolanaro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taolanaro
+Processing City 421 | samusu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=samusu
+Processing City 422 | talnakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=talnakh
+Processing City 423 | great falls
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=great+falls
+Processing City 424 | mount gambier
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mount+gambier
+Processing City 425 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 426 | merauke
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=merauke
+Processing City 427 | gizo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gizo
+Processing City 428 | lolua
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lolua
+Processing City 429 | cape town
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cape+town
+Processing City 430 | kamaishi
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kamaishi
+Processing City 431 | mecca
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mecca
+Processing City 432 | bethel
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bethel
+Processing City 433 | castro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=castro
+Processing City 434 | topsham
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=topsham
+Processing City 435 | imuris
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=imuris
+Processing City 436 | naze
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=naze
+Processing City 437 | cidreira
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cidreira
+Processing City 438 | illoqqortoormiut
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=illoqqortoormiut
+Processing City 439 | mahebourg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mahebourg
+Processing City 440 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 441 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 442 | leshukonskoye
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=leshukonskoye
+Processing City 443 | chapais
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chapais
+Processing City 444 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 445 | sistranda
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sistranda
+Processing City 446 | new norfolk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=new+norfolk
+Processing City 447 | lipin bor
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lipin+bor
+Processing City 448 | saskylakh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saskylakh
+Processing City 449 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 450 | tongliao
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tongliao
+Processing City 451 | severo-kurilsk
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=severo-kurilsk
+Processing City 452 | lebu
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lebu
+Processing City 453 | arraial do cabo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arraial+do+cabo
+Processing City 454 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 455 | limoux
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=limoux
+Processing City 456 | ostersund
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ostersund
+Processing City 457 | salalah
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=salalah
+Processing City 458 | grindavik
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=grindavik
+Processing City 459 | saint-philippe
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-philippe
+Processing City 460 | meadow lake
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=meadow+lake
+Processing City 461 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 462 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 463 | rikitea
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
+Processing City 464 | punta arenas
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
+Processing City 465 | mugur-aksy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mugur-aksy
+Processing City 466 | sarai naurang
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sarai+naurang
+Processing City 467 | challapata
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=challapata
+Processing City 468 | castro
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=castro
+Processing City 469 | busselton
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
+Processing City 470 | mana
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mana
+Processing City 471 | toliary
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=toliary
+Processing City 472 | albany
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
+Processing City 473 | punta alta
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+alta
+Processing City 474 | godec
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=godec
+Processing City 475 | manjacaze
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=manjacaze
+Processing City 476 | flinders
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=flinders
+Processing City 477 | hobart
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
+Processing City 478 | coquimbo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=coquimbo
+Processing City 479 | provideniya
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=provideniya
+Processing City 480 | lugazi
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lugazi
+Processing City 481 | hilo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
+Processing City 482 | nazarovo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nazarovo
+Processing City 483 | garhi khairo
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=garhi+khairo
+Processing City 484 | sentyabrskiy
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sentyabrskiy
+Processing City 485 | vila velha
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vila+velha
+Processing City 486 | payyannur
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=payyannur
+Processing City 487 | mehamn
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mehamn
+Processing City 488 | nuh
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nuh
+Processing City 489 | bredasdorp
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bredasdorp
+Processing City 490 | butaritari
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=butaritari
+Processing City 491 | oda
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=oda
+Processing City 492 | hasaki
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hasaki
+Processing City 493 | grand river south east
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=grand+river+south+east
+Processing City 494 | faanui
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=faanui
+Processing City 495 | cape town
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cape+town
+Processing City 496 | hermanus
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hermanus
+Processing City 497 | kaiyuan
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kaiyuan
+Processing City 498 | mataura
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
+Processing City 499 | mahebourg
+http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mahebourg
