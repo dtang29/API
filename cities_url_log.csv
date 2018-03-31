@@ -1,1002 +1,1002 @@
 Beginning Data Retrieval
 ----------------------------
-Processing City 1 | nishihara
+Processing City 1 | lasa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lasa
-Processing City 2 | nishihara
+Processing City 2 | faanui
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=faanui
-Processing City 3 | nishihara
+Processing City 3 | ancud
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ancud
-Processing City 4 | nishihara
+Processing City 4 | lakeside
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lakeside
-Processing City 5 | nishihara
+Processing City 5 | cabedelo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cabedelo
-Processing City 6 | nishihara
+Processing City 6 | cidreira
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cidreira
-Processing City 7 | nishihara
+Processing City 7 | gat
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gat
-Processing City 8 | nishihara
+Processing City 8 | mopipi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mopipi
-Processing City 9 | nishihara
+Processing City 9 | san cristobal
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+cristobal
-Processing City 10 | nishihara
+Processing City 10 | nikolskoye
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nikolskoye
-Processing City 11 | nishihara
+Processing City 11 | norman wells
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=norman+wells
-Processing City 12 | nishihara
+Processing City 12 | hermanus
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hermanus
-Processing City 13 | nishihara
+Processing City 13 | naze
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=naze
-Processing City 14 | nishihara
+Processing City 14 | dikson
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dikson
-Processing City 15 | nishihara
+Processing City 15 | butaritari
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=butaritari
-Processing City 16 | nishihara
+Processing City 16 | mar del plata
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mar+del+plata
-Processing City 17 | nishihara
+Processing City 17 | arman
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arman
-Processing City 18 | nishihara
+Processing City 18 | carnarvon
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=carnarvon
-Processing City 19 | nishihara
+Processing City 19 | mahebourg
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mahebourg
-Processing City 20 | nishihara
+Processing City 20 | victoria
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=victoria
-Processing City 21 | nishihara
+Processing City 21 | vaini
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vaini
-Processing City 22 | nishihara
+Processing City 22 | tual
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tual
-Processing City 23 | nishihara
+Processing City 23 | punta arenas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=punta+arenas
-Processing City 24 | nishihara
+Processing City 24 | comodoro rivadavia
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=comodoro+rivadavia
-Processing City 25 | nishihara
+Processing City 25 | upernavik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=upernavik
-Processing City 26 | nishihara
+Processing City 26 | arraial do cabo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arraial+do+cabo
-Processing City 27 | nishihara
+Processing City 27 | busselton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=busselton
-Processing City 28 | nishihara
+Processing City 28 | rikitea
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=rikitea
-Processing City 29 | nishihara
+Processing City 29 | port hedland
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+hedland
-Processing City 30 | nishihara
+Processing City 30 | ushuaia
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ushuaia
-Processing City 31 | nishihara
+Processing City 31 | barrow
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barrow
-Processing City 32 | nishihara
+Processing City 32 | khatanga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=khatanga
-Processing City 33 | nishihara
+Processing City 33 | puerto ayora
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+ayora
-Processing City 34 | nishihara
+Processing City 34 | vila
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vila
-Processing City 35 | nishihara
+Processing City 35 | manado
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=manado
-Processing City 36 | nishihara
+Processing City 36 | abu dhabi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=abu+dhabi
-Processing City 37 | nishihara
+Processing City 37 | esperance
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=esperance
-Processing City 38 | nishihara
+Processing City 38 | stavern
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=stavern
-Processing City 39 | nishihara
+Processing City 39 | prince rupert
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=prince+rupert
-Processing City 40 | nishihara
+Processing City 40 | chokurdakh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chokurdakh
-Processing City 41 | nishihara
+Processing City 41 | aykhal
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=aykhal
-Processing City 42 | nishihara
+Processing City 42 | husavik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=husavik
-Processing City 43 | nishihara
+Processing City 43 | hilo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hilo
-Processing City 44 | nishihara
+Processing City 44 | pemberton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pemberton
-Processing City 45 | nishihara
+Processing City 45 | yar-sale
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yar-sale
-Processing City 46 | nishihara
+Processing City 46 | ovsyanka
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ovsyanka
-Processing City 47 | nishihara
+Processing City 47 | cockburn town
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cockburn+town
-Processing City 48 | nishihara
+Processing City 48 | umm lajj
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=umm+lajj
-Processing City 49 | nishihara
+Processing City 49 | airai
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=airai
-Processing City 50 | nishihara
+Processing City 50 | paveh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=paveh
-Processing City 51 | nishihara
+Processing City 51 | lengshuitan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lengshuitan
-Processing City 52 | nishihara
+Processing City 52 | castro
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=castro
-Processing City 53 | nishihara
+Processing City 53 | ilulissat
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ilulissat
-Processing City 54 | nishihara
+Processing City 54 | tiksi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tiksi
-Processing City 55 | nishihara
+Processing City 55 | port elizabeth
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+elizabeth
-Processing City 56 | nishihara
+Processing City 56 | albany
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=albany
-Processing City 57 | nishihara
+Processing City 57 | lompoc
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lompoc
-Processing City 58 | nishihara
+Processing City 58 | lagunillas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lagunillas
-Processing City 59 | nishihara
+Processing City 59 | avarua
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=avarua
-Processing City 60 | nishihara
+Processing City 60 | pangody
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pangody
-Processing City 61 | nishihara
+Processing City 61 | beloha
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=beloha
-Processing City 62 | nishihara
+Processing City 62 | key largo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=key+largo
-Processing City 63 | nishihara
+Processing City 63 | port blair
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+blair
-Processing City 64 | nishihara
+Processing City 64 | shestakovo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=shestakovo
-Processing City 65 | nishihara
+Processing City 65 | sinnamary
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sinnamary
-Processing City 66 | nishihara
+Processing City 66 | sambava
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sambava
-Processing City 67 | nishihara
+Processing City 67 | kapaa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kapaa
-Processing City 68 | nishihara
+Processing City 68 | itarema
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=itarema
-Processing City 69 | nishihara
+Processing City 69 | avera
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=avera
-Processing City 70 | nishihara
+Processing City 70 | tautira
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tautira
-Processing City 71 | nishihara
+Processing City 71 | leningradskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=leningradskiy
-Processing City 72 | nishihara
+Processing City 72 | mataura
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataura
-Processing City 73 | nishihara
+Processing City 73 | pacific grove
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pacific+grove
-Processing City 74 | nishihara
+Processing City 74 | cascais
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cascais
-Processing City 75 | nishihara
+Processing City 75 | east london
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=east+london
-Processing City 76 | nishihara
+Processing City 76 | bredasdorp
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bredasdorp
-Processing City 77 | nishihara
+Processing City 77 | iqaluit
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=iqaluit
-Processing City 78 | nishihara
+Processing City 78 | georgetown
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=georgetown
-Processing City 79 | nishihara
+Processing City 79 | bluff
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bluff
-Processing City 80 | nishihara
+Processing City 80 | yellowknife
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yellowknife
-Processing City 81 | nishihara
+Processing City 81 | pundaguitan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pundaguitan
-Processing City 82 | nishihara
+Processing City 82 | new norfolk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=new+norfolk
-Processing City 83 | nishihara
+Processing City 83 | cape town
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cape+town
-Processing City 84 | nishihara
+Processing City 84 | ribeira grande
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ribeira+grande
-Processing City 85 | nishihara
+Processing City 85 | la union
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=la+union
-Processing City 86 | nishihara
+Processing City 86 | kruisfontein
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kruisfontein
-Processing City 87 | nishihara
+Processing City 87 | fortuna
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fortuna
-Processing City 88 | nishihara
+Processing City 88 | tiznit
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tiznit
-Processing City 89 | nishihara
+Processing City 89 | saint-philippe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-philippe
-Processing City 90 | nishihara
+Processing City 90 | auki
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=auki
-Processing City 91 | nishihara
+Processing City 91 | qaanaaq
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qaanaaq
-Processing City 92 | nishihara
+Processing City 92 | turukhansk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=turukhansk
-Processing City 93 | nishihara
+Processing City 93 | orlik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=orlik
-Processing City 94 | nishihara
+Processing City 94 | haines junction
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=haines+junction
-Processing City 95 | nishihara
+Processing City 95 | arona
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arona
-Processing City 96 | nishihara
+Processing City 96 | biu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=biu
-Processing City 97 | nishihara
+Processing City 97 | tasiilaq
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tasiilaq
-Processing City 98 | nishihara
+Processing City 98 | westport
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=westport
-Processing City 99 | nishihara
+Processing City 99 | atuona
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=atuona
-Processing City 100 | nishihara
+Processing City 100 | jalu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jalu
-Processing City 101 | nishihara
+Processing City 101 | caravelas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=caravelas
-Processing City 102 | nishihara
+Processing City 102 | sao joao da barra
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+joao+da+barra
-Processing City 103 | nishihara
+Processing City 103 | ribas do rio pardo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ribas+do+rio+pardo
-Processing City 104 | nishihara
+Processing City 104 | san patricio
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+patricio
-Processing City 105 | nishihara
+Processing City 105 | geraldton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=geraldton
-Processing City 106 | nishihara
+Processing City 106 | bambous virieux
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bambous+virieux
-Processing City 107 | nishihara
+Processing City 107 | severo-kurilsk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=severo-kurilsk
-Processing City 108 | nishihara
+Processing City 108 | port alfred
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+alfred
-Processing City 109 | nishihara
+Processing City 109 | thompson
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=thompson
-Processing City 110 | nishihara
+Processing City 110 | pevek
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pevek
-Processing City 111 | nishihara
+Processing City 111 | nanortalik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nanortalik
-Processing City 112 | nishihara
+Processing City 112 | souillac
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=souillac
-Processing City 113 | nishihara
+Processing City 113 | kangaatsiaq
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kangaatsiaq
-Processing City 114 | nishihara
+Processing City 114 | gizo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gizo
-Processing City 115 | nishihara
+Processing City 115 | gushikawa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gushikawa
-Processing City 116 | nishihara
+Processing City 116 | pocone
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pocone
-Processing City 117 | nishihara
+Processing City 117 | manta
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=manta
-Processing City 118 | nishihara
+Processing City 118 | umm kaddadah
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=umm+kaddadah
-Processing City 119 | nishihara
+Processing City 119 | tondon
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tondon
-Processing City 120 | nishihara
+Processing City 120 | port-gentil
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port-gentil
-Processing City 121 | nishihara
+Processing City 121 | springdale
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=springdale
-Processing City 122 | nishihara
+Processing City 122 | balkhash
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=balkhash
-Processing City 123 | nishihara
+Processing City 123 | lata
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lata
-Processing City 124 | nishihara
+Processing City 124 | matara
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=matara
-Processing City 125 | nishihara
+Processing City 125 | kisanga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kisanga
-Processing City 126 | nishihara
+Processing City 126 | bereda
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bereda
-Processing City 127 | nishihara
+Processing City 127 | provideniya
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=provideniya
-Processing City 128 | nishihara
+Processing City 128 | creel
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=creel
-Processing City 129 | nishihara
+Processing City 129 | praia da vitoria
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=praia+da+vitoria
-Processing City 130 | nishihara
+Processing City 130 | narsaq
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=narsaq
-Processing City 131 | nishihara
+Processing City 131 | hithadhoo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hithadhoo
-Processing City 132 | nishihara
+Processing City 132 | amarante do maranhao
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=amarante+do+maranhao
-Processing City 133 | nishihara
+Processing City 133 | jamestown
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jamestown
-Processing City 134 | nishihara
+Processing City 134 | la tuque
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=la+tuque
-Processing City 135 | nishihara
+Processing City 135 | saldanha
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saldanha
-Processing City 136 | nishihara
+Processing City 136 | lavrentiya
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lavrentiya
-Processing City 137 | nishihara
+Processing City 137 | vila franca do campo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vila+franca+do+campo
-Processing City 138 | nishihara
+Processing City 138 | raudeberg
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=raudeberg
-Processing City 139 | nishihara
+Processing City 139 | tombouctou
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tombouctou
-Processing City 140 | nishihara
+Processing City 140 | ahipara
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ahipara
-Processing City 141 | nishihara
+Processing City 141 | longyearbyen
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=longyearbyen
-Processing City 142 | nishihara
+Processing City 142 | wilhelmsburg
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wilhelmsburg
-Processing City 143 | nishihara
+Processing City 143 | lida
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lida
-Processing City 144 | nishihara
+Processing City 144 | cherskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cherskiy
-Processing City 145 | nishihara
+Processing City 145 | wasilla
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wasilla
-Processing City 146 | nishihara
+Processing City 146 | dakar
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dakar
-Processing City 147 | nishihara
+Processing City 147 | hobart
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobart
-Processing City 148 | nishihara
+Processing City 148 | neiafu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=neiafu
-Processing City 149 | nishihara
+Processing City 149 | gradsko
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gradsko
-Processing City 150 | nishihara
+Processing City 150 | uni
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=uni
-Processing City 151 | nishihara
+Processing City 151 | angoche
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=angoche
-Processing City 152 | nishihara
+Processing City 152 | veraval
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=veraval
-Processing City 153 | nishihara
+Processing City 153 | portland
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=portland
-Processing City 154 | nishihara
+Processing City 154 | puerto carreno
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+carreno
-Processing City 155 | nishihara
+Processing City 155 | faya
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=faya
-Processing City 156 | nishihara
+Processing City 156 | ahuimanu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ahuimanu
-Processing City 157 | nishihara
+Processing City 157 | zabaykalsk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=zabaykalsk
-Processing City 158 | nishihara
+Processing City 158 | linden
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=linden
-Processing City 159 | nishihara
+Processing City 159 | turayf
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=turayf
-Processing City 160 | nishihara
+Processing City 160 | manggar
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=manggar
-Processing City 161 | nishihara
+Processing City 161 | cayenne
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cayenne
-Processing City 162 | nishihara
+Processing City 162 | kahului
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kahului
-Processing City 163 | nishihara
+Processing City 163 | qaqortoq
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qaqortoq
-Processing City 164 | nishihara
+Processing City 164 | bhadrachalam
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bhadrachalam
-Processing City 165 | nishihara
+Processing City 165 | sisimiut
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sisimiut
-Processing City 166 | nishihara
+Processing City 166 | khandyga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=khandyga
-Processing City 167 | nishihara
+Processing City 167 | astoria
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=astoria
-Processing City 168 | nishihara
+Processing City 168 | inhambane
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=inhambane
-Processing City 169 | nishihara
+Processing City 169 | worthing
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=worthing
-Processing City 170 | nishihara
+Processing City 170 | perth
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=perth
-Processing City 171 | nishihara
+Processing City 171 | bang krathum
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bang+krathum
-Processing City 172 | nishihara
+Processing City 172 | abu zabad
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=abu+zabad
-Processing City 173 | nishihara
+Processing City 173 | baley
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=baley
-Processing City 174 | nishihara
+Processing City 174 | abu samrah
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=abu+samrah
-Processing City 175 | nishihara
+Processing City 175 | bud
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bud
-Processing City 176 | nishihara
+Processing City 176 | mecca
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mecca
-Processing City 177 | nishihara
+Processing City 177 | constantine
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=constantine
-Processing City 178 | nishihara
+Processing City 178 | omsukchan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=omsukchan
-Processing City 179 | nishihara
+Processing City 179 | yining
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yining
-Processing City 180 | nishihara
+Processing City 180 | silver city
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=silver+city
-Processing City 181 | nishihara
+Processing City 181 | kushima
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kushima
-Processing City 182 | nishihara
+Processing City 182 | stamford
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=stamford
-Processing City 183 | nishihara
+Processing City 183 | the valley
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=the+valley
-Processing City 184 | nishihara
+Processing City 184 | trenggalek
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=trenggalek
-Processing City 185 | nishihara
+Processing City 185 | hofn
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hofn
-Processing City 186 | nishihara
+Processing City 186 | kungurtug
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kungurtug
-Processing City 187 | nishihara
+Processing City 187 | poum
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=poum
-Processing City 188 | nishihara
+Processing City 188 | alyangula
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alyangula
-Processing City 189 | nishihara
+Processing City 189 | kohlu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kohlu
-Processing City 190 | nishihara
+Processing City 190 | porto novo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=porto+novo
-Processing City 191 | nishihara
+Processing City 191 | samarai
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=samarai
-Processing City 192 | nishihara
+Processing City 192 | half moon bay
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=half+moon+bay
-Processing City 193 | nishihara
+Processing City 193 | diego de almagro
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=diego+de+almagro
-Processing City 194 | nishihara
+Processing City 194 | puerto del rosario
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+del+rosario
-Processing City 195 | nishihara
+Processing City 195 | tomatlan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tomatlan
-Processing City 196 | nishihara
+Processing City 196 | mount gambier
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mount+gambier
-Processing City 197 | nishihara
+Processing City 197 | saskylakh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saskylakh
-Processing City 198 | nishihara
+Processing City 198 | opuwo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=opuwo
-Processing City 199 | nishihara
+Processing City 199 | ulaangom
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ulaangom
-Processing City 200 | nishihara
+Processing City 200 | tefe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tefe
-Processing City 201 | nishihara
+Processing City 201 | banda aceh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=banda+aceh
-Processing City 202 | nishihara
+Processing City 202 | isilkul
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=isilkul
-Processing City 203 | nishihara
+Processing City 203 | arlit
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=arlit
-Processing City 204 | nishihara
+Processing City 204 | bahawalpur
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bahawalpur
-Processing City 205 | nishihara
+Processing City 205 | berdychiv
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=berdychiv
-Processing City 206 | nishihara
+Processing City 206 | cabo san lucas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cabo+san+lucas
-Processing City 207 | nishihara
+Processing City 207 | codrington
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=codrington
-Processing City 208 | nishihara
+Processing City 208 | paeroa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=paeroa
-Processing City 209 | nishihara
+Processing City 209 | maceio
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=maceio
-Processing City 210 | nishihara
+Processing City 210 | lorengau
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lorengau
-Processing City 211 | nishihara
+Processing City 211 | langsa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=langsa
-Processing City 212 | nishihara
+Processing City 212 | tongliao
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tongliao
-Processing City 213 | nishihara
+Processing City 213 | villarrubia de los ojos
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=villarrubia+de+los+ojos
-Processing City 214 | nishihara
+Processing City 214 | moreira sales
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=moreira+sales
-Processing City 215 | nishihara
+Processing City 215 | ohaeawai
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ohaeawai
-Processing City 216 | nishihara
+Processing City 216 | beni suef
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=beni+suef
-Processing City 217 | nishihara
+Processing City 217 | anda
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=anda
-Processing City 218 | nishihara
+Processing City 218 | mayor pablo lagerenza
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mayor+pablo+lagerenza
-Processing City 219 | nishihara
+Processing City 219 | henties bay
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=henties+bay
-Processing City 220 | nishihara
+Processing City 220 | dukat
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dukat
-Processing City 221 | nishihara
+Processing City 221 | guerrero negro
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=guerrero+negro
-Processing City 222 | nishihara
+Processing City 222 | chas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chas
-Processing City 223 | nishihara
+Processing City 223 | acapulco
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=acapulco
-Processing City 224 | nishihara
+Processing City 224 | chuy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chuy
-Processing City 225 | nishihara
+Processing City 225 | waipawa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=waipawa
-Processing City 226 | nishihara
+Processing City 226 | anage
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=anage
-Processing City 227 | nishihara
+Processing City 227 | socorro
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=socorro
-Processing City 228 | nishihara
+Processing City 228 | mataram
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mataram
-Processing City 229 | nishihara
+Processing City 229 | novobiryusinskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=novobiryusinskiy
-Processing City 230 | nishihara
+Processing City 230 | kiunga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kiunga
-Processing City 231 | nishihara
+Processing City 231 | smithers
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=smithers
-Processing City 232 | nishihara
+Processing City 232 | shache
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=shache
-Processing City 233 | nishihara
+Processing City 233 | bihac
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bihac
-Processing City 234 | nishihara
+Processing City 234 | tshela
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tshela
-Processing City 235 | nishihara
+Processing City 235 | indramayu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=indramayu
-Processing City 236 | nishihara
+Processing City 236 | hirara
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hirara
-Processing City 237 | nishihara
+Processing City 237 | torbay
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=torbay
-Processing City 238 | nishihara
+Processing City 238 | iranshahr
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=iranshahr
-Processing City 239 | nishihara
+Processing City 239 | cam ranh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cam+ranh
-Processing City 240 | nishihara
+Processing City 240 | mizdah
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mizdah
-Processing City 241 | nishihara
+Processing City 241 | diamantino
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=diamantino
-Processing City 242 | nishihara
+Processing City 242 | buala
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=buala
-Processing City 243 | nishihara
+Processing City 243 | bermejo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bermejo
-Processing City 244 | nishihara
+Processing City 244 | mizan teferi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mizan+teferi
-Processing City 245 | nishihara
+Processing City 245 | emerald
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=emerald
-Processing City 246 | nishihara
+Processing City 246 | kizukuri
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kizukuri
-Processing City 247 | nishihara
+Processing City 247 | bethel
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bethel
-Processing City 248 | nishihara
+Processing City 248 | san borja
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+borja
-Processing City 249 | nishihara
+Processing City 249 | hasaki
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hasaki
-Processing City 250 | nishihara
+Processing City 250 | merrill
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=merrill
-Processing City 251 | nishihara
+Processing City 251 | puerto madryn
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=puerto+madryn
-Processing City 252 | nishihara
+Processing City 252 | shurugwi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=shurugwi
-Processing City 253 | nishihara
+Processing City 253 | kirakira
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kirakira
-Processing City 254 | nishihara
+Processing City 254 | vung tau
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vung+tau
-Processing City 255 | nishihara
+Processing City 255 | san quintin
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+quintin
-Processing City 256 | nishihara
+Processing City 256 | san policarpo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+policarpo
-Processing City 257 | nishihara
+Processing City 257 | surt
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=surt
-Processing City 258 | nishihara
+Processing City 258 | marawi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=marawi
-Processing City 259 | nishihara
+Processing City 259 | saint-augustin
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-augustin
-Processing City 260 | nishihara
+Processing City 260 | conde
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=conde
-Processing City 261 | nishihara
+Processing City 261 | darhan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=darhan
-Processing City 262 | nishihara
+Processing City 262 | boca raton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=boca+raton
-Processing City 263 | nishihara
+Processing City 263 | imeni poliny osipenko
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=imeni+poliny+osipenko
-Processing City 264 | nishihara
+Processing City 264 | morwell
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=morwell
-Processing City 265 | nishihara
+Processing City 265 | pocatello
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pocatello
-Processing City 266 | nishihara
+Processing City 266 | qarayeri
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qarayeri
-Processing City 267 | nishihara
+Processing City 267 | mandalgovi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mandalgovi
-Processing City 268 | nishihara
+Processing City 268 | bria
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bria
-Processing City 269 | nishihara
+Processing City 269 | fairbanks
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fairbanks
-Processing City 270 | nishihara
+Processing City 270 | noumea
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=noumea
-Processing City 271 | nishihara
+Processing City 271 | mathathane
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mathathane
-Processing City 272 | nishihara
+Processing City 272 | leua
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=leua
-Processing City 273 | nishihara
+Processing City 273 | ust-kuyga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ust-kuyga
-Processing City 274 | nishihara
+Processing City 274 | panlaitan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=panlaitan
-Processing City 275 | nishihara
+Processing City 275 | lunenburg
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lunenburg
-Processing City 276 | nishihara
+Processing City 276 | zonguldak
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=zonguldak
-Processing City 277 | nishihara
+Processing City 277 | shingu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=shingu
-Processing City 278 | nishihara
+Processing City 278 | nome
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nome
-Processing City 279 | nishihara
+Processing City 279 | jacobina
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jacobina
-Processing City 280 | nishihara
+Processing City 280 | marsa matruh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=marsa+matruh
-Processing City 281 | nishihara
+Processing City 281 | sungaipenuh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sungaipenuh
-Processing City 282 | nishihara
+Processing City 282 | omboue
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=omboue
-Processing City 283 | nishihara
+Processing City 283 | sorland
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sorland
-Processing City 284 | nishihara
+Processing City 284 | karratha
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=karratha
-Processing City 285 | nishihara
+Processing City 285 | kodiak
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kodiak
-Processing City 286 | nishihara
+Processing City 286 | stromness
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=stromness
-Processing City 287 | nishihara
+Processing City 287 | qasigiannguit
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qasigiannguit
-Processing City 288 | nishihara
+Processing City 288 | zhoucheng
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=zhoucheng
-Processing City 289 | nishihara
+Processing City 289 | broome
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=broome
-Processing City 290 | nishihara
+Processing City 290 | beringovskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=beringovskiy
-Processing City 291 | nishihara
+Processing City 291 | ambon
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ambon
-Processing City 292 | nishihara
+Processing City 292 | kaeo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kaeo
-Processing City 293 | nishihara
+Processing City 293 | baoqing
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=baoqing
-Processing City 294 | nishihara
+Processing City 294 | komsomolskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=komsomolskiy
-Processing City 295 | nishihara
+Processing City 295 | nokaneng
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nokaneng
-Processing City 296 | nishihara
+Processing City 296 | kasongo-lunda
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kasongo-lunda
-Processing City 297 | nishihara
+Processing City 297 | chapais
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chapais
-Processing City 298 | nishihara
+Processing City 298 | chateauroux
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chateauroux
-Processing City 299 | nishihara
+Processing City 299 | labuhan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=labuhan
-Processing City 300 | nishihara
+Processing City 300 | cabo rojo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cabo+rojo
-Processing City 301 | nishihara
+Processing City 301 | ostrovnoy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ostrovnoy
-Processing City 302 | nishihara
+Processing City 302 | pindiga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pindiga
-Processing City 303 | nishihara
+Processing City 303 | bandarbeyla
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bandarbeyla
-Processing City 304 | nishihara
+Processing City 304 | hoquiam
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hoquiam
-Processing City 305 | nishihara
+Processing City 305 | cajamarca
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cajamarca
-Processing City 306 | nishihara
+Processing City 306 | panaba
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=panaba
-Processing City 307 | nishihara
+Processing City 307 | kodinsk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kodinsk
-Processing City 308 | nishihara
+Processing City 308 | pudozh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pudozh
-Processing City 309 | nishihara
+Processing City 309 | sur
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sur
-Processing City 310 | nishihara
+Processing City 310 | grimshaw
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=grimshaw
-Processing City 311 | nishihara
+Processing City 311 | savannah bight
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=savannah+bight
-Processing City 312 | nishihara
+Processing City 312 | tuatapere
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tuatapere
-Processing City 313 | nishihara
+Processing City 313 | hammerfest
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hammerfest
-Processing City 314 | nishihara
+Processing City 314 | kaitangata
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kaitangata
-Processing City 315 | nishihara
+Processing City 315 | touros
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=touros
-Processing City 316 | nishihara
+Processing City 316 | mount pleasant
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mount+pleasant
-Processing City 317 | nishihara
+Processing City 317 | miri
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=miri
-Processing City 318 | nishihara
+Processing City 318 | totolapa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=totolapa
-Processing City 319 | nishihara
+Processing City 319 | belyy yar
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=belyy+yar
-Processing City 320 | nishihara
+Processing City 320 | yerbogachen
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yerbogachen
-Processing City 321 | nishihara
+Processing City 321 | taber
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=taber
-Processing City 322 | nishihara
+Processing City 322 | nakhon ratchasima
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nakhon+ratchasima
-Processing City 323 | nishihara
+Processing City 323 | panama city
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=panama+city
-Processing City 324 | nishihara
+Processing City 324 | qax
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=qax
-Processing City 325 | nishihara
+Processing City 325 | darnah
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=darnah
-Processing City 326 | nishihara
+Processing City 326 | shakawe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=shakawe
-Processing City 327 | nishihara
+Processing City 327 | kavaratti
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kavaratti
-Processing City 328 | nishihara
+Processing City 328 | kuytun
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kuytun
-Processing City 329 | nishihara
+Processing City 329 | simpang
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=simpang
-Processing City 330 | nishihara
+Processing City 330 | katherine
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=katherine
-Processing City 331 | nishihara
+Processing City 331 | mana
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mana
-Processing City 332 | nishihara
+Processing City 332 | mangrol
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mangrol
-Processing City 333 | nishihara
+Processing City 333 | verkhoyansk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=verkhoyansk
-Processing City 334 | nishihara
+Processing City 334 | ponta do sol
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ponta+do+sol
-Processing City 335 | nishihara
+Processing City 335 | iquique
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=iquique
-Processing City 336 | nishihara
+Processing City 336 | ixtapa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ixtapa
-Processing City 337 | nishihara
+Processing City 337 | chara
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chara
-Processing City 338 | nishihara
+Processing City 338 | cervo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=cervo
-Processing City 339 | nishihara
+Processing City 339 | vestmannaeyjar
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vestmannaeyjar
-Processing City 340 | nishihara
+Processing City 340 | lodja
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lodja
-Processing City 341 | nishihara
+Processing City 341 | clyde river
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=clyde+river
-Processing City 342 | nishihara
+Processing City 342 | saint-louis
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint-louis
-Processing City 343 | nishihara
+Processing City 343 | jumla
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jumla
-Processing City 344 | nishihara
+Processing City 344 | chimoio
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chimoio
-Processing City 345 | nishihara
+Processing City 345 | lazaro cardenas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lazaro+cardenas
-Processing City 346 | nishihara
+Processing City 346 | langarud
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=langarud
-Processing City 347 | nishihara
+Processing City 347 | flinders
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=flinders
-Processing City 348 | nishihara
+Processing City 348 | katsuura
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=katsuura
-Processing City 349 | nishihara
+Processing City 349 | hamilton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hamilton
-Processing City 350 | nishihara
+Processing City 350 | lebu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lebu
-Processing City 351 | nishihara
+Processing City 351 | alihe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alihe
-Processing City 352 | nishihara
+Processing City 352 | sitka
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sitka
-Processing City 353 | nishihara
+Processing City 353 | benemerito de las americas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=benemerito+de+las+americas
-Processing City 354 | nishihara
+Processing City 354 | coquimbo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=coquimbo
-Processing City 355 | nishihara
+Processing City 355 | methven
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=methven
-Processing City 356 | nishihara
+Processing City 356 | adamovka
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=adamovka
-Processing City 357 | nishihara
+Processing City 357 | newport
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=newport
-Processing City 358 | nishihara
+Processing City 358 | riyadh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=riyadh
-Processing City 359 | nishihara
+Processing City 359 | princeton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=princeton
-Processing City 360 | nishihara
+Processing City 360 | belmonte
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=belmonte
-Processing City 361 | nishihara
+Processing City 361 | samsun
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=samsun
-Processing City 362 | nishihara
+Processing City 362 | kushiro
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kushiro
-Processing City 363 | nishihara
+Processing City 363 | tuktoyaktuk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tuktoyaktuk
-Processing City 364 | nishihara
+Processing City 364 | antakya
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=antakya
-Processing City 365 | nishihara
+Processing City 365 | tanete
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tanete
-Processing City 366 | nishihara
+Processing City 366 | thinadhoo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=thinadhoo
-Processing City 367 | nishihara
+Processing City 367 | collie
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=collie
-Processing City 368 | nishihara
+Processing City 368 | baykit
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=baykit
-Processing City 369 | nishihara
+Processing City 369 | camacha
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=camacha
-Processing City 370 | nishihara
+Processing City 370 | upington
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=upington
-Processing City 371 | nishihara
+Processing City 371 | kawalu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kawalu
-Processing City 372 | nishihara
+Processing City 372 | nagato
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nagato
-Processing City 373 | nishihara
+Processing City 373 | burnie
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=burnie
-Processing City 374 | nishihara
+Processing City 374 | vardo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vardo
-Processing City 375 | nishihara
+Processing City 375 | nemuro
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nemuro
-Processing City 376 | nishihara
+Processing City 376 | tilichiki
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tilichiki
-Processing City 377 | nishihara
+Processing City 377 | noyabrsk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=noyabrsk
-Processing City 378 | nishihara
+Processing City 378 | berlevag
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=berlevag
-Processing City 379 | nishihara
+Processing City 379 | mandali
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mandali
-Processing City 380 | nishihara
+Processing City 380 | endicott
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=endicott
-Processing City 381 | nishihara
+Processing City 381 | camalu
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=camalu
-Processing City 382 | nishihara
+Processing City 382 | saint anthony
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint+anthony
-Processing City 383 | nishihara
+Processing City 383 | alenquer
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alenquer
-Processing City 384 | nishihara
+Processing City 384 | pangnirtung
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pangnirtung
-Processing City 385 | nishihara
+Processing City 385 | takoradi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=takoradi
-Processing City 386 | nishihara
+Processing City 386 | xuanhua
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=xuanhua
-Processing City 387 | nishihara
+Processing City 387 | george
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=george
-Processing City 388 | nishihara
+Processing City 388 | igarka
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=igarka
-Processing City 389 | nishihara
+Processing City 389 | shalakusha
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=shalakusha
-Processing City 390 | nishihara
+Processing City 390 | port lincoln
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+lincoln
-Processing City 391 | nishihara
+Processing City 391 | eskisehir
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=eskisehir
-Processing City 392 | nishihara
+Processing City 392 | sioux lookout
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sioux+lookout
-Processing City 393 | nishihara
+Processing City 393 | dunedin
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dunedin
-Processing City 394 | nishihara
+Processing City 394 | kavieng
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kavieng
-Processing City 395 | nishihara
+Processing City 395 | bogotol
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bogotol
-Processing City 396 | nishihara
+Processing City 396 | san juan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+juan
-Processing City 397 | nishihara
+Processing City 397 | viedma
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=viedma
-Processing City 398 | nishihara
+Processing City 398 | zyryanka
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=zyryanka
-Processing City 399 | nishihara
+Processing City 399 | solnechnyy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=solnechnyy
-Processing City 400 | nishihara
+Processing City 400 | namibe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=namibe
-Processing City 401 | nishihara
+Processing City 401 | sarangani
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sarangani
-Processing City 402 | nishihara
+Processing City 402 | kenai
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kenai
-Processing City 403 | nishihara
+Processing City 403 | inuvik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=inuvik
-Processing City 404 | nishihara
+Processing City 404 | sao miguel do araguaia
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+miguel+do+araguaia
-Processing City 405 | nishihara
+Processing City 405 | copiapo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=copiapo
-Processing City 406 | nishihara
+Processing City 406 | hay river
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hay+river
-Processing City 407 | nishihara
+Processing City 407 | tateyama
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tateyama
-Processing City 408 | nishihara
+Processing City 408 | dingle
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=dingle
-Processing City 409 | nishihara
+Processing City 409 | kontagora
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kontagora
-Processing City 410 | nishihara
+Processing City 410 | lagoa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lagoa
-Processing City 411 | nishihara
+Processing City 411 | linhares
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=linhares
-Processing City 412 | nishihara
+Processing City 412 | alta floresta
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=alta+floresta
-Processing City 413 | nishihara
+Processing City 413 | ayr
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ayr
-Processing City 414 | nishihara
+Processing City 414 | kimbe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kimbe
-Processing City 415 | nishihara
+Processing City 415 | gombong
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gombong
-Processing City 416 | nishihara
+Processing City 416 | grindavik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=grindavik
-Processing City 417 | nishihara
+Processing City 417 | fort nelson
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fort+nelson
-Processing City 418 | nishihara
+Processing City 418 | oeiras do para
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=oeiras+do+para
-Processing City 419 | nishihara
+Processing City 419 | jacareacanga
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=jacareacanga
-Processing City 420 | nishihara
+Processing City 420 | isangel
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=isangel
-Processing City 421 | nishihara
+Processing City 421 | abalak
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=abalak
-Processing City 422 | nishihara
+Processing City 422 | kropotkin
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kropotkin
-Processing City 423 | nishihara
+Processing City 423 | san rafael
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+rafael
-Processing City 424 | nishihara
+Processing City 424 | sabinas
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sabinas
-Processing City 425 | nishihara
+Processing City 425 | champerico
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=champerico
-Processing City 426 | nishihara
+Processing City 426 | huai thalaeng
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=huai+thalaeng
-Processing City 427 | nishihara
+Processing City 427 | brae
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=brae
-Processing City 428 | nishihara
+Processing City 428 | araouane
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=araouane
-Processing City 429 | nishihara
+Processing City 429 | klaksvik
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=klaksvik
-Processing City 430 | nishihara
+Processing City 430 | harper
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=harper
-Processing City 431 | nishihara
+Processing City 431 | kardla
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kardla
-Processing City 432 | nishihara
+Processing City 432 | yumen
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yumen
-Processing City 433 | nishihara
+Processing City 433 | sand springs
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sand+springs
-Processing City 434 | nishihara
+Processing City 434 | te anau
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=te+anau
-Processing City 435 | nishihara
+Processing City 435 | bathsheba
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bathsheba
-Processing City 436 | nishihara
+Processing City 436 | vanavara
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=vanavara
-Processing City 437 | nishihara
+Processing City 437 | saint george
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saint+george
-Processing City 438 | nishihara
+Processing City 438 | lindi
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=lindi
-Processing City 439 | nishihara
+Processing City 439 | coihaique
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=coihaique
-Processing City 440 | nishihara
+Processing City 440 | altay
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=altay
-Processing City 441 | nishihara
+Processing City 441 | salalah
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=salalah
-Processing City 442 | nishihara
+Processing City 442 | horsham
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=horsham
-Processing City 443 | nishihara
+Processing City 443 | bilma
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=bilma
-Processing City 444 | nishihara
+Processing City 444 | malinovskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=malinovskiy
-Processing City 445 | nishihara
+Processing City 445 | nabire
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nabire
-Processing City 446 | nishihara
+Processing City 446 | les cayes
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=les+cayes
-Processing City 447 | nishihara
+Processing City 447 | tecoanapa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tecoanapa
-Processing City 448 | nishihara
+Processing City 448 | verkhnyaya inta
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=verkhnyaya+inta
-Processing City 449 | nishihara
+Processing City 449 | batagay
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=batagay
-Processing City 450 | nishihara
+Processing City 450 | kupang
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kupang
-Processing City 451 | nishihara
+Processing City 451 | constitucion
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=constitucion
-Processing City 452 | nishihara
+Processing City 452 | ilo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ilo
-Processing City 453 | nishihara
+Processing City 453 | yaroslavskiy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=yaroslavskiy
-Processing City 454 | nishihara
+Processing City 454 | mildura
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mildura
-Processing City 455 | nishihara
+Processing City 455 | kibala
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kibala
-Processing City 456 | nishihara
+Processing City 456 | santa vitoria do palmar
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=santa+vitoria+do+palmar
-Processing City 457 | nishihara
+Processing City 457 | iracoubo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=iracoubo
-Processing City 458 | nishihara
+Processing City 458 | palauig
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=palauig
-Processing City 459 | nishihara
+Processing City 459 | wajir
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=wajir
-Processing City 460 | nishihara
+Processing City 460 | barcelos
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=barcelos
-Processing City 461 | nishihara
+Processing City 461 | luderitz
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=luderitz
-Processing City 462 | nishihara
+Processing City 462 | huarmey
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=huarmey
-Processing City 463 | nishihara
+Processing City 463 | verkhnevilyuysk
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=verkhnevilyuysk
-Processing City 464 | nishihara
+Processing City 464 | san luis
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=san+luis
-Processing City 465 | nishihara
+Processing City 465 | sao filipe
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=sao+filipe
-Processing City 466 | nishihara
+Processing City 466 | state college
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=state+college
-Processing City 467 | nishihara
+Processing City 467 | ibra
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=ibra
-Processing City 468 | nishihara
+Processing City 468 | berdigestyakh
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=berdigestyakh
-Processing City 469 | nishihara
+Processing City 469 | masterton
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=masterton
-Processing City 470 | nishihara
+Processing City 470 | mugla
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mugla
-Processing City 471 | nishihara
+Processing City 471 | chumikan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=chumikan
-Processing City 472 | nishihara
+Processing City 472 | tucumcari
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tucumcari
-Processing City 473 | nishihara
+Processing City 473 | college
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=college
-Processing City 474 | nishihara
+Processing City 474 | griffith
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=griffith
-Processing City 475 | nishihara
+Processing City 475 | gigmoto
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=gigmoto
-Processing City 476 | nishihara
+Processing City 476 | port hardy
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=port+hardy
-Processing City 477 | nishihara
+Processing City 477 | peniche
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=peniche
-Processing City 478 | nishihara
+Processing City 478 | pochutla
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=pochutla
-Processing City 479 | nishihara
+Processing City 479 | fort-shevchenko
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=fort-shevchenko
-Processing City 480 | nishihara
+Processing City 480 | quang ngai
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=quang+ngai
-Processing City 481 | nishihara
+Processing City 481 | laela
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=laela
-Processing City 482 | nishihara
+Processing City 482 | tabou
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=tabou
-Processing City 483 | nishihara
+Processing City 483 | manyana
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=manyana
-Processing City 484 | nishihara
+Processing City 484 | hobyo
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=hobyo
-Processing City 485 | nishihara
+Processing City 485 | high level
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=high+level
-Processing City 486 | nishihara
+Processing City 486 | am timan
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=am+timan
-Processing City 487 | nishihara
+Processing City 487 | kladno
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=kladno
-Processing City 488 | nishihara
+Processing City 488 | margate
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=margate
-Processing City 489 | nishihara
+Processing City 489 | abu kamal
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=abu+kamal
-Processing City 490 | nishihara
+Processing City 490 | panzhihua
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=panzhihua
-Processing City 491 | nishihara
+Processing City 491 | saeby
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=saeby
-Processing City 492 | nishihara
+Processing City 492 | oussouye
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=oussouye
-Processing City 493 | nishihara
+Processing City 493 | mattawa
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=mattawa
-Processing City 494 | nishihara
+Processing City 494 | grand gaube
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=grand+gaube
-Processing City 495 | nishihara
+Processing City 495 | police
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=police
-Processing City 496 | nishihara
+Processing City 496 | praya
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=praya
-Processing City 497 | nishihara
+Processing City 497 | husum
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=husum
-Processing City 498 | nishihara
+Processing City 498 | porto velho
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=porto+velho
-Processing City 499 | nishihara
+Processing City 499 | khilok
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=khilok
 Processing City 500 | nishihara
 http://api.openweathermap.org/data/2.5/weather?appid=a15bc35f076c6ceb0f7c24ca80b3dfed&units=imperial&q=nishihara
